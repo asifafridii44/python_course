@@ -5,11 +5,14 @@ Variables can hold different data types, such as integers, floats, strings, and 
 
 >>> Key Points about Variables in Python:
 
->>> No declaration required: You don’t need to declare a variable before using it.
+>>> No declaration required: 
+You don’t need to declare a variable before using it.
 
->>> Dynamic typing: You can assign a new value to a variable of any type.
+>>> Dynamic typing: 
+You can assign a new value to a variable of any type.
 
->>> Naming conventions: Variable names can include letters, numbers, and underscores, 
+>>> Naming conventions: 
+Variable names can include letters, numbers, and underscores, 
 but cannot start with a number. They are case-sensitive.
 
 '''
